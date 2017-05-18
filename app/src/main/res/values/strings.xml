@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Football Questions</string>
+    <string name="question">What is your favourite football team?</string>
+    <string name="rbMadrid">Real Madrid</string>
+    <string name="rbBarcelona">FC Barcelona</string>
+    <string name="rbAtleti">Atlético de Madrid</string>
+    <string name="madrid">It may won all this year</string>
+    <string name="barcelona">Last year it did 3 victories in a row</string>
+    <string name="atleti">Little by little</string>
+    <string name="gusta">Do you like football?</string>
+    <string name="sigusta">You like football!</string>
+    <string name="nogusta">Why doesnt football like you?</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Preguntas fútbol</string>
+    <string name="question">¿Cual es tu equipo de fútbol favorito?</string>
+    <string name="rbMadrid">Real Madrid</string>
+    <string name="rbBarcelona">FC Barcelona</string>
+    <string name="rbAtleti">Atlético de Madrid</string>
+    <string name="madrid">Parece que este año lo ganará todo</string>
+    <string name="barcelona">El año pasado hizo triplete</string>
+    <string name="atleti">Partido a partido...</string>
+    <string name="gusta">¿Te gusta el fútbol?</string>
+    <string name="sigusta">¡Te gusta el fútbol!</string>
+    <string name="nogusta">¿Por qué no te gusta el fútbol?</string>
+</resources>
